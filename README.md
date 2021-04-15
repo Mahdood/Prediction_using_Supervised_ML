@@ -2,11 +2,11 @@
 **The Sparks Foundation** <br>
 [![Linkedin Badge](https://img.shields.io/badge/-TheSparksFoundation-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/the-sparks-foundation/)](https://www.linkedin.com/company/the-sparks-foundation/)
 <br>
-# Prediction_using_Supervised_ML
-Task1 of GRIPAPRIL21
 https://thesparksfoundationsingapore.org/ <br>
 <img align="left" alt="TSF" src="https://www.thesparksfoundationsingapore.org/images/logo_small.png" width="250" height="320" /> <br>
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+# Prediction_using_Supervised_ML
+Task1 of GRIPAPRIL21
 <h1 style="text-align:left;">Role in Internship</h1>
 <ol>
   <li> <strong><i>To Explore Supervised Machine Learning - </i></strong> 
